@@ -1,0 +1,1 @@
+##This repo contains the React Fundamentals Course. Each branch corresponds to a lesson and consists of a Lesson file, and code for an application that gets build as students progress through the course.
