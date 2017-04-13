@@ -1,6 +1,5 @@
 ##Tooling
 
-- NPM init -y
 - Webpack
 	+ Why does this thing exist?
 	+ What problem is thing solving?
@@ -21,10 +20,17 @@
 - You can think of a component as a collection of HTML, CSS, JS, and some internal data specific to that component.
 - What makes React so convenient for building user interfaces is that data is either received from a component’s parent component, or it’s contained in the component itself.
 
+
+##Building a Hello World React component
 #NPM Install
 - Create github-battle directory
+- npm init -y
+- git init
+- .gitignore
 - npm install --save react react-dom 
 - npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react css-loader style-loader html-webpack-plugin webpack webpack-dev-server
-- Make sure you also have git initialized.
 - Explain React.createElement vs JSX
 - Make sure to explain webpack work-flow, use of webpack dev server, and webpack -p
+- create webpack.config.js
+- babel preset set-up in package.json
+- create first component in index.js
