@@ -22,5 +22,9 @@
 - What makes React so convenient for building user interfaces is that data is either received from a component’s parent component, or it’s contained in the component itself.
 
 #NPM Install
+- Create github-battle directory
+- npm install --save react react-dom 
 - npm install --save-dev babel-core babel-loader babel-preset-env babel-preset-react css-loader style-loader html-webpack-plugin webpack webpack-dev-server
 - Make sure you also have git initialized.
+- Explain React.createElement vs JSX
+- Make sure to explain webpack work-flow, use of webpack dev server, and webpack -p
