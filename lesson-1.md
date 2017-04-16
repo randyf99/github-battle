@@ -1,4 +1,4 @@
-##Why React? 
+## Why React? 
 - Composition
 - Unidirectional Dataflow
 - Declarative
@@ -6,7 +6,7 @@
 - Just JavaScript
 
 
-##Composition
+## Composition
 - How do you build a large application? By building a bunch of small apps or components. You can use the same intuition you have about using functions in JS, to build components in React.
 
 ```
