@@ -34,3 +34,4 @@ var result = votes.reduce(reducer, initialValue) // {tacos: 2, pizza: 3, fries: 
 
 ## Continue building app.
 - Introduce Axios, Promises, Github API
+- This lesson is all about the Github API and the functions around it.
