@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const id = 'YOUR_CLIENT_ID';
+const id = 'YOUR_CLIENT_I';
 const sec = 'YOUR_SECRET_ID';
 const params = `?client_id=${id}&client_secret=${sec}`;
 
